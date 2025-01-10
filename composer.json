@@ -1,0 +1,12 @@
+{
+    "name": "tredmann/ollama-video",
+    "authors": [
+        {
+            "name": "Tobias Redmann",
+            "email": "tobias.redmann@gmail.com"
+        }
+    ],
+    "require": {
+        "tredmann/php-ollama": "^1.0"
+    }
+}
